@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Local datasets / checkpoints
+data/
+checkpoints/
+
+# Large raw media used only for generating previews
+assets/video_raw/
